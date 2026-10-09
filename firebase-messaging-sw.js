@@ -1,5 +1,5 @@
 importScripts('https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js','https://www.gstatic.com/firebasejs/10.12.0/firebase-messaging-compat.js');
-firebase.initializeApp({apiKey:'BF0ceYZDig1wc1gsgwMI0v3lFSltlt11cqBh-Yq-rMbjFsgcVgLBkN9puhptNLOFL2rxpnThNkCw4VbnwCXbEfE',authDomain:'BF0ceYZDig1wc1gsgwMI0v3lFSltlt11cqBh-Yq-rMbjFsgcVgLBkN9puhptNLOFL2rxpnThNkCw4VbnwCXbEfE',projectId:'BF0ceYZDig1wc1gsgwMI0v3lFSltlt11cqBh-Yq-rMbjFsgcVgLBkN9puhptNLOFL2rxpnThNkCw4VbnwCXbEfE',messagingSenderId:'BF0ceYZDig1wc1gsgwMI0v3lFSltlt11cqBh-Yq-rMbjFsgcVgLBkN9puhptNLOFL2rxpnThNkCw4VbnwCXbEfE',appId:'BF0ceYZDig1wc1gsgwMI0v3lFSltlt11cqBh-Yq-rMbjFsgcVgLBkN9puhptNLOFL2rxpnThNkCw4VbnwCXbEfE'}); // ←index.htmlと同じ設定値を貼る
+firebase.initializeApp({apiKey:'AIzaSyCGL5ixjuYYAISmqRZW-bW69jIcTWGURdM',authDomain:'zizinn-application.firebaseapp.com',projectId:'zizinn-application',messagingSenderId:'228298639633',appId:'1:228298639633:web:109386aab0af972736a4b0'}); // ←index.htmlと同じ設定値を貼る
 firebase.messaging(); // バックグラウンド通知はFCMが自動表示
 
 const C='bosai-v2';
